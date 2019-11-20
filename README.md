@@ -1,0 +1,2 @@
+# training
+my first progect
